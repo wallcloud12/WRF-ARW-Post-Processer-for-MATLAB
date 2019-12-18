@@ -20,4 +20,4 @@
    - wrf-python has some special names that can be found at https://wrf-python.readthedocs.io/en/latest/diagnostics.html
 7. Change the interp_method variable to the desired vertical coordinate using the wrf variable name
 8. Change the interp_levels to the desired vertical levels in the cordinate specifed before
-9. Exit test editor and use a python interpreter to run the program
+9. Exit text editor and use a python interpreter to run the program
